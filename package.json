@@ -1,6 +1,6 @@
 {
   "name": "mini-delta-encoding",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Stores integer sequences by encoding consecutive differences, keeping the first value as an anchor for decoding.",
   "type": "module",
   "main": "src/index.js",
